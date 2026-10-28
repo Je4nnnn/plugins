@@ -1,0 +1,12 @@
+{
+  "binary": "dist\\BeatWeaver_x64.dll",
+  "sha256": "c8738dbd8c02e911e5fb35d683651067fb1957abcb2075310b1316d6edf8cf83",
+  "tests_run": 17,
+  "failures": 0,
+  "errors": 0,
+  "passed": true,
+  "seconds": 2.087,
+  "gui_and_artifacts_passed": true,
+  "artifact_error": null,
+  "scope": "Own x64 host, signal measurements, MIDI, state, transport and native GUI. No FL Studio A/B test."
+}

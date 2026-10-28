@@ -1,0 +1,8 @@
+build/
+__pycache__/
+*.pdb
+*.ilk
+*.obj
+*.exp
+*.lib
+reference-back-preview.png

@@ -1,0 +1,4 @@
+LIBRARY BeatWeaver_x64
+EXPORTS
+    VSTPluginMain
+    main=VSTPluginMain
